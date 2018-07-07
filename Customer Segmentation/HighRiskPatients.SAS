@@ -4,6 +4,9 @@
 
 /*This SAS program analyzes PDMP data and identifies the estimate number of residents per zipcode with high-risk opioid prescriptions*/
 
+/*Targets were patients living in areas valued by morphine milligram equivalence. Higher MMEs correspond to greater potential for 
+intervention and response. 
+
 /*The result is a series of HTML maps used in a public awareness media campaign to target zipcodes with high-risk patients*/
 
 *-------------------------------------------------------------------*
