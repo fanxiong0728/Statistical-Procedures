@@ -1,5 +1,8 @@
 
 /*This macro creates summary counts by year, month, age groups, and patient residence for each outcome of interest from ICD-9-CM and ICD-10-CM*/
+ *-------------------------------------------------------------------*
+ *  Author:  Fan Xiong            <fanxiong0728@gmail.com>           *
+ *-------------------------------------------------------------------*
 
 %macro FREQICD9(YEAR=,OUTCOME=);
 	/*Run this file reader to access Libname Engines relevant for analysis*/
