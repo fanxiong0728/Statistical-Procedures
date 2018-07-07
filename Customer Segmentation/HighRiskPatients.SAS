@@ -7,6 +7,8 @@
 /*Targets were patients living in areas valued by morphine milligram equivalence. Higher MMEs correspond to greater potential for 
 intervention and response. 
 
+/*Segmentation was done by zipcodes, risk level, and patient deomgraphics.*/
+
 /*The result is a series of HTML maps used in a public awareness media campaign to target zipcodes with high-risk patients*/
 
 *-------------------------------------------------------------------*
