@@ -6,6 +6,10 @@
 
 /*The result is a series of HTML maps used in a public awareness media campaign to target zipcodes with high-risk patients*/
 
+*-------------------------------------------------------------------*
+ *  This SAS program uses the brewerpal macro to create colors in SAS written by Michael Friendly  *
+*-------------------------------------------------------------------*
+
 LIBNAME MEDIA "C:\TEMP\Space\Projects\Social Media Data";
 LIBNAME DATA "C:\TEMP\EHR PAPER OCT\DATA";
 
