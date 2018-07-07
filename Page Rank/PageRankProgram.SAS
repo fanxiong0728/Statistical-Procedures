@@ -4,6 +4,9 @@ Generalizing Google’s PageRank to Rank National Football League Teams
 Written By: Anjela Y. Govan; Carl D. Meyer; Russell Albright
 Avalible at: http://www2.sas.com/proceedings/forum2008/151-2008.pdf*/
 
+/*For more information on this SAS program and Google Page Rank implementation in SAS/IML, 
+please see: https://pdfs.semanticscholar.org/presentation/e8b6/9238a877e2f996f56b34cdf271e58141bd1d.pdf */
+
 /*Example Data*/
 
 data indexTeam;
